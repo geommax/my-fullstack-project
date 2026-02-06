@@ -1,0 +1,7 @@
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/growth_calc.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/edit_cache.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/rebuild_cache.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/list_install_components.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/install.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/install/local.dir
+/home/mr_robot/Desktop/Git/my-fullstack-project/build/CMakeFiles/install/strip.dir
