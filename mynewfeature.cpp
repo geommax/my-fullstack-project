@@ -14,6 +14,14 @@ using namespace std;
 struct Config {
     double base;
     int exponent;
-    string logFile;
-    bool enableLogging;
+};
+
+
+Class MyNewFeature {
+public:
+    MyNewFeature(const Config& config) : config(config) {}
+    double calculate() {
+        return pow(config.base, config.exponent);
+    }
+
 };
